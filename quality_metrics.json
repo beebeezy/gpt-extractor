@@ -1,0 +1,24 @@
+{
+  "quality_standards": {
+    "target_accuracy": 0.95,
+    "min_field_completion": 0.60,
+    "min_confidence_score": 0.80,
+    "max_error_rate": 0.05
+  },
+  "field_accuracy_tracking": {
+    "funder_name": [],
+    "grant_opportunity_name": [],
+    "application_deadline": [],
+    "grant_amounts": [],
+    "eligibility_criteria": [],
+    "geographic_scope": [],
+    "focus_areas": [],
+    "contact_email": []
+  },
+  "batch_quality_history": [],
+  "improvement_tracking": {
+    "accuracy_trend": [],
+    "completion_trend": [],
+    "confidence_trend": []
+  }
+}

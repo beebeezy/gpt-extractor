@@ -1,0 +1,25 @@
+{
+  "project_info": {
+    "name": "GPT Extractor - ChatGPT Grant Extraction",
+    "created": "2025-07-28",
+    "last_updated": "2025-07-28",
+    "target_foundations": 10000,
+    "current_batch_size": 8,
+    "extraction_method": "ChatGPT_Agent_Mode"
+  },
+  "batch_tracking": {
+    "total_batches_completed": 0,
+    "total_foundations_processed": 0,
+    "total_opportunities_extracted": 0,
+    "last_batch_number": 0,
+    "next_batch_number": 1
+  },
+  "quality_metrics": {
+    "overall_accuracy": null,
+    "field_completion_rate": null,
+    "average_confidence_score": null,
+    "error_rate": null
+  },
+  "batch_history": [],
+  "current_status": "READY_FOR_BATCH_001"
+}

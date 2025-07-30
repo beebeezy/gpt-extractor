@@ -1,0 +1,58 @@
+{
+  "extraction_metadata": {
+    "funder_url": "string",
+    "pages_visited": ["string"],
+    "extraction_timestamp": "ISO_timestamp",
+    "extraction_confidence": "float_0_to_1"
+  },
+  "funder_name": {
+    "value": "string_or_null",
+    "source": "url_or_null", 
+    "snippet": "exact_quote_or_null"
+  },
+  "grant_opportunity_name": {
+    "value": "string_or_null",
+    "source": "url_or_null",
+    "snippet": "exact_quote_or_null"
+  },
+  "opportunity_description": {
+    "value": "string_or_null",
+    "source": "url_or_null",
+    "snippet": "exact_quote_or_null"
+  },
+  "grants_page_url": {
+    "value": "string_or_null",
+    "source": "url_or_null",
+    "snippet": "exact_quote_or_null"
+  },
+  "application_deadline": {
+    "value": "string_or_null",
+    "source": "url_or_null",
+    "snippet": "exact_quote_or_null"
+  },
+  "grant_amounts": {
+    "value": "string_or_null",
+    "source": "url_or_null",
+    "snippet": "exact_quote_or_null"
+  },
+  "organization_eligibility_criteria": {
+    "value": "string_or_null",
+    "source": "url_or_null",
+    "snippet": "exact_quote_or_null"
+  },
+  "geographic_scope": {
+    "value": "string_or_null",
+    "source": "url_or_null",
+    "snippet": "exact_quote_or_null"
+  },
+  "focus_areas": {
+    "value": "string_or_null",
+    "source": "url_or_null",
+    "snippet": "exact_quote_or_null"
+  },
+  "contact_email": {
+    "value": "string_or_null",
+    "source": "url_or_null",
+    "snippet": "exact_quote_or_null"
+  }
+}

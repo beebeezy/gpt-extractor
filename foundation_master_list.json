@@ -1,0 +1,23 @@
+{
+  "master_list_info": {
+    "total_foundations": 0,
+    "processed_foundations": 0,
+    "remaining_foundations": 0,
+    "last_updated": "2025-07-28"
+  },
+  "foundation_categories": {
+    "large_foundations": [],
+    "medium_foundations": [],
+    "small_foundations": [],
+    "corporate_foundations": [],
+    "community_foundations": []
+  },
+  "processing_status": {
+    "queued": [],
+    "in_progress": [],
+    "completed": [],
+    "failed": [],
+    "requires_review": []
+  },
+  "batch_assignments": {}
+}
